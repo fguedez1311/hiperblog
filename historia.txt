@@ -1,4 +1,4 @@
 Este es un archivo de Francisco Guedez
 para estudiar git
 Francisco Guedez tiene 50 años
-Hoy hablaremos de su vida y obra maestra
+Mañana nos enfocaremos en su vida laboral
